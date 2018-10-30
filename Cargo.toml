@@ -4,5 +4,3 @@ version = "0.1.0"
 authors = ["bufubaoni <bufubaoni@163.com>"]
 
 [dependencies]
-hyper = "0.12"
-lazycell = "1.2"
