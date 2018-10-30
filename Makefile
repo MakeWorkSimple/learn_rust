@@ -3,4 +3,4 @@ build:
 version:
 	cargo --version
 run:
-	cargo run
+	cargo run ${url}
